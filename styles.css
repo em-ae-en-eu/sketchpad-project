@@ -9,8 +9,4 @@
 #container div{
     border: 1px solid black;
     box-sizing: border-box;
-
-
-    width: 60px;
-    height: 60px;
 }
